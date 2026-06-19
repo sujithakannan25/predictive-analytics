@@ -1,0 +1,14 @@
+Project: Predictive Analytics Using Historical Data
+
+Model Used: Linear Regression
+Dataset: Sales Forecasting (48 months)
+R2 Score: 0.99
+MSE: 365.14
+
+Steps Done:
+1. Created historical sales dataset (48 months)
+2. Cleaned data - No missing values found
+3. Split data: 80% train, 20% test
+4. Trained Linear Regression model
+5. Achieved R2 Score of 0.99 (Excellent)
+6. Visualized Actual vs Predicted values
